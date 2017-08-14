@@ -4,7 +4,7 @@ Learning about TypeScript Fundamentals using version [2.4.2](https://github.com/
 
 - [x] What is TypeScript
 - [x] First TypeScript Program
-- [ ] Declaring Variables
+- [x] Declaring Variables
 - [ ] Types
 - [ ] Type Assertions
 - [ ] Arrow Functions

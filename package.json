@@ -1,0 +1,9 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "~2.4.2"
+  }
+}

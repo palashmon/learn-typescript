@@ -3,7 +3,7 @@
 Learning about TypeScript Fundamentals using version [2.4.2](https://github.com/Microsoft/TypeScript)
 
 - [x] What is TypeScript
-- [ ] First TypeScript Program
+- [x] First TypeScript Program
 - [ ] Declaring Variables
 - [ ] Types
 - [ ] Type Assertions

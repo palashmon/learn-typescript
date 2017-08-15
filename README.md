@@ -9,8 +9,8 @@ Learning about TypeScript Fundamentals using version [2.4.2](https://github.com/
 - [x] Type Assertions
 - [x] Arrow Functions
 - [x] Interfaces
-- [ ] Classes
-- [ ] Objects
+- [x] Classes
+- [x] Objects
 - [ ] Constructors
 - [ ] Access Modifiers
 - [ ] Access Modifiers in Constructor Parameters

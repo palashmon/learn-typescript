@@ -6,18 +6,17 @@
     x: number;
     y: number;
 
+    constructor(x?: number, y?: number) {
+      this.x = x || 10;
+      this.y = y || 20;
+    }
+
     // Draw method for this class
     draw() {
       console.log(`X: ${this.x}, Y: ${this.y}`);
     }
-
-    getDistance(another: Point) {
-      // ...
-    }
   }
 
   let point = new Point();
-  point.x = 1;
-  point.y = 2;
   point.draw();
 }

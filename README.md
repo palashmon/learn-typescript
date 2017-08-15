@@ -8,7 +8,7 @@ Learning about TypeScript Fundamentals using version [2.4.2](https://github.com/
 - [x] Types
 - [x] Type Assertions
 - [x] Arrow Functions
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Classes
 - [ ] Objects
 - [ ] Constructors

@@ -3,8 +3,9 @@
 {
   class Point {
     // Properties to the Point class
-    x: number;
-    y: number;
+    // When a member is marked private, it cannot be accessed from outside of its containing class
+    private x: number;
+    private y: number;
 
     constructor(x?: number, y?: number) {
       this.x = x || 10;
@@ -17,6 +18,7 @@
     }
   }
 
-  let point = new Point();
+  let point = new Point(1, 2);
+  // point.x = 10; // Error: 'x' is private;
   point.draw();
 }

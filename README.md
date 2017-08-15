@@ -7,7 +7,7 @@ Learning about TypeScript Fundamentals using version [2.4.2](https://github.com/
 - [x] Declaring Variables
 - [x] Types
 - [x] Type Assertions
-- [ ] Arrow Functions
+- [x] Arrow Functions
 - [ ] Interfaces
 - [ ] Classes
 - [ ] Objects

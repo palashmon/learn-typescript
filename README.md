@@ -14,5 +14,5 @@ Learning about TypeScript Fundamentals using version [2.4.2](https://github.com/
 - [x] Constructors
 - [x] Access Modifiers
 - [x] Access Modifiers in Constructor Parameters
-- [ ] Properties
+- [x] Properties
 - [ ] Modules
